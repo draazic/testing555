@@ -44,10 +44,11 @@ namespace testapp.Controllers
         {
             DateTime today = DateTime.Now;
 
-            int result = DateTime.Compare(today, personne.BithDay);
-            if(result > 150)
+            //int result = DateTime.Compare(today, personne.BithDay);
+            int result = today.Year - personne.BithDay.Year;
+            if (result > 150)
             {
-                //ModelState.IsValid = false;
+                ModelState.AddModelError("Birthday", "To Old.");
             }
 
             if (ModelState.IsValid)

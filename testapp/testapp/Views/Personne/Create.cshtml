@@ -21,18 +21,18 @@
                 <span asp-validation-for="Forname" class="text-danger"></span>
             </div>
 
-            <div class="mb-3">
+            @*<div class="mb-3">
                 <label asp-for="Age" class="form-label">Age</label>
                 <input type="text" asp-for="Age" class="form-control" id="exampleFormControlInput1">
                 <span asp-validation-for="Age" class="text-danger"></span>
 
-            </div>
+            </div>*@
 
             <div class="mb-3">
                 <label asp-for="BithDay" class="form-label">BirthDay</label>
                 <input type="date" asp-for="BithDay" asp-format="{0:yyyy-MM-dd}" class="form-control" id="exampleFormControlInput1">
-                <span asp-validation-for="BithDay" class="text-danger"></span>
-
+                @*<span asp-validation-for="BithDay" class="text-danger"></span>*@
+                @Html.ValidationMessage("Birthday")
             </div>
 
 
