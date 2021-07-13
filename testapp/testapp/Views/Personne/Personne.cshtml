@@ -1,0 +1,36 @@
+﻿@model IEnumerable<testapp.Models.Personne>
+@{ViewData["Title"] = "Personne";}
+
+<h1>Liste</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-sm btn-primary">Create Personne</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">First</th>
+            <th scope="col">Last</th>
+            <th scope="col">BirtDay</th>
+            <th scope="col">Age</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <th scope="row">@item.Id</th>
+            <td>@item.Name</td>
+            <td>@item.Forname</td>
+            <td>@item.BithDay</td>
+            <td>@item.Age</td>
+           
+        </tr>
+        }
+
+
+    </tbody>
+</table>

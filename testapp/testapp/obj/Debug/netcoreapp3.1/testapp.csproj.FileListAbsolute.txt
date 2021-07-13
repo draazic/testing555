@@ -7,7 +7,16 @@
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/testapp.pdb
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/testapp.Views.dll
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/testapp.Views.pdb
-/Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.csproj.AssemblyReference.cache
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.AssemblyInfoInputs.cache
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.AssemblyInfo.cs
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.csproj.CoreCompileInputs.cache
@@ -22,6 +31,8 @@
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.RazorCoreGenerate.cache
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/Razor/Views/Personne/Create.cshtml.g.cs
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/Razor/Views/Personne/Personne.cshtml.g.cs
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
@@ -30,7 +41,7 @@
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.RazorTargetAssemblyInfo.cache
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.RazorTargetAssemblyInfo.cs
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.Views.pdb
+/Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.csproj.CopyComplete
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.dll
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.pdb
 /Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.genruntimeconfig.cache
-/Users/deejaydraaz/Documents/testing555/testapp/testapp/obj/Debug/netcoreapp3.1/testapp.csproj.CopyComplete
